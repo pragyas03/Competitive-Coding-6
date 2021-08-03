@@ -1,4 +1,4 @@
-// Time Complexity : O(k), k = total valid permutations
+// Time Complexity : O(n!)
 // Space Complexity : O(n), n=number of elements
 // Did this code successfully run on Leetcode : Yes
 
